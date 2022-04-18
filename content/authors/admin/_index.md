@@ -25,7 +25,7 @@ education:
     - course: MA in Classical Studies
       institution: University of Pennsylvania
       year: 2015
-    - course: BA High Honors in Latin, Minor in Ancient Greek
+    - course: BA High Honors in Latin
       institution: Oberlin College
       year: 2013
 email: ""
