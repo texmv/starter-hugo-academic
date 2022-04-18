@@ -28,8 +28,8 @@ content:
   email: thomas.matthew.vozar@uni-hamburg.de
   address:
     street: Institute of English and American Studies, Überseering 35
-    postcode: '20251'
-    city: Hamburg
+    postcode: '22297'
+    city: Hamburg, Germany
     country: Germany
     
 design:
