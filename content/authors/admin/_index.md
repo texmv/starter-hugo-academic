@@ -17,8 +17,6 @@ social:
 organizations:
   - url: https://www.slm.uni-hamburg.de/en/iaa.html
     name: University of Hamburg
-  - name: University of Exeter
-    url: https://humanities.exeter.ac.uk/english/
 education:
   courses:
     - course: PhD in English
