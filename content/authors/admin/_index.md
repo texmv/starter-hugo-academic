@@ -1,7 +1,7 @@
 ---
 title: T. M. Vozar
 role: Excellence Strategy Postdoctoral Fellow
-avatar_filename: vozar-photo.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - early modern learned culture
