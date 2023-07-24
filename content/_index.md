@@ -44,7 +44,7 @@ sections:
       text: |-
       # Contact (add or remove contact options as necessary)
       email: thomas.matthew.vozar@uni-hamburg.de
-      # address:
+      address:
         street: 450 Serra Mall
         city: Stanford
         region: CA
