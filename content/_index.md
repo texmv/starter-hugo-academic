@@ -41,6 +41,7 @@ sections:
     id: contact
     content:
       title: Contact
+      text: |-
       # Contact (add or remove contact options as necessary)
       email: thomas.matthew.vozar@uni-hamburg.de
       # address:
