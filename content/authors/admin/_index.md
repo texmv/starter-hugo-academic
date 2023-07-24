@@ -24,7 +24,7 @@ education:
       year: 2021
     - course: MA in Classical Studies
       institution: University of Pennsylvania
-      year: 2012
+      year: 2015
     - course: BA with High Honors in Latin
       institution: Oberlin College
       year: 2013
