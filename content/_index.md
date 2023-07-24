@@ -45,12 +45,12 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: thomas.matthew.vozar@uni-hamburg.de
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Phil-Turm, Von-Melle-Park 6, 20146 Hamburg, Germany
+        city:
+        region:
+        postcode: ''
+        country:
+        country_code: DE
       office_hours:
         - 'By appointment'
       # Automatically link email and phone or display as text?
