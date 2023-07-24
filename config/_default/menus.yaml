@@ -7,8 +7,8 @@ main:
   - name: About
     url: '#about'
     weight: 10
-  - name: Selected Publications
-    url: '#featured'
+  - name: Publications
+    url: '#book'
     weight: 50
   - name: Contact
     url: '#contact'
