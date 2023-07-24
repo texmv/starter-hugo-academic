@@ -42,9 +42,9 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
-    id: featured
+    id: book
     content:
-      title: Selected Publications
+      title: Book
       filters:
         folders:
           - publication
@@ -53,8 +53,9 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    id: articles
     content:
-      title: Recent Publications
+      title: Selected Articles
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
