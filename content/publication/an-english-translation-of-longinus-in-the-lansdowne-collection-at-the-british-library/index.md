@@ -8,7 +8,7 @@ authors:
 doi: https://doi.org/10.1080/0268117X.2019.1608463
 publication: "The Seventeenth Century 35.5 (2020): 625–650."
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
