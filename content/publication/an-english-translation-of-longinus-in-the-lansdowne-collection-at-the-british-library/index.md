@@ -3,6 +3,8 @@ title: An English Translation of Longinus in the Lansdowne Collection at the
   British Library
 publication_types:
   - "2"
+authors:
+  - T. M. Vozar
 draft: false
 featured: false
 image:
