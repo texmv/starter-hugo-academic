@@ -16,4 +16,3 @@ image:
   preview_only: false
 date: 2021-11-30T15:48:11.463Z
 ---
-d
