@@ -47,7 +47,7 @@ sections:
         region:
         postcode: ''
         country: Germany
-        country_code: DE
+        country_code:
       office_hours:
         - 'By appointment'
       # Automatically link email and phone or display as text?
