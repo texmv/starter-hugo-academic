@@ -6,7 +6,7 @@ publication_types:
 authors:
   - T. M. Vozar
 doi: https://doi.org/10.1111/milt.12374
-publication: "Milton Quarterly 55.1 (2021): 63–66."
+publication: "Milton Quarterly 55.1 (2021): 63–66"
 draft: false
 featured: false
 categories: []
