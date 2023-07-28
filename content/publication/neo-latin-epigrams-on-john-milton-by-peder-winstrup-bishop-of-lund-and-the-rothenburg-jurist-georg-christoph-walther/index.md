@@ -6,7 +6,7 @@ publication_types:
 authors:
   - T. M. Vozar
 doi: https://doi.org/10.30986/2022.115
-publication: "Humanistica Lovaniensia 71.1 (2022): 115–124."
+publication: "Humanistica Lovaniensia 71.1 (2022): 115–124"
 draft: false
 featured: false
 image:
