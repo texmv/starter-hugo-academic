@@ -5,6 +5,7 @@ publication_types:
   - "2"
 authors:
   - T. M. Vozar
+doi: https://doi.org/10.1080/0268117X.2019.1608463
 draft: false
 featured: false
 image:
