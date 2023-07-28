@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - early modern learned culture
-  - orientalism
+  - orientalism and European-Islamic encounters
   - Renaissance drama
 social:
   - icon: envelope
@@ -36,6 +36,6 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-As a scholar of early modern literary and intellectual culture I explore a wide range of topics in my work, from Shakespearean drama to Boylean science, but I am especially interested in the writings of John Milton, classical reception, Neo-Latin studies, the history of humanistic scholarship, the history of the book, orientalism, Anglo-Islamic encounters, and global early modern studies.
+As a scholar of early modern literary, cultural, and intellectual history I bring new light to the writings and thought of scholars and poets of the long seventeenth century (c. 1550–1750) by providing new interpretations of familiar texts and by discovering previously neglected or undiscovered sources. My principal areas of research are early modern learned culture (encompassing such topics as classical reception, Neo-Latin, the history of scholarship, the history of libraries and reading, the history of the universities, and the international republic of letters); orientalism and European-Islamic encounters; and Renaissance drama.
 
-My first book, *Milton, Longinus, and the Sublime in the Seventeenth Century*, will be published by Oxford University Press in December and is now available for pre-order. I am currently at work on a second book entitled *Polemical Erudition: Scholarship and Politics in the English Revolution* as well as several other projects.
+My first book, *Milton, Longinus, and the Sublime in the Seventeenth Century*, will be published by Oxford University Press in December and is now available for pre-order. I am currently at work on a second book provisionally entitled *Polemical Erudition: Scholarship and Politics in the English Revolution* as well as several other projects, including a translation of Isaac Barrow's *De Religione Turcica*, a Latin poem on Islam composed during a visit to Istanbul in 1658, and an edition of the *Life of William Cavendish* for the forthcoming *Complete Works of Margaret Cavendish*. I have published over twenty articles on subjects ranging from the influence of academic drama on Shakespeare's *Julius Caesar* to the circulation of a Latin treatise on Islam by the Polish-born Ottoman dragoman Ali Ufki.
