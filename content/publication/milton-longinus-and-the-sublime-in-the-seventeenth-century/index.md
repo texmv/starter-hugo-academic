@@ -2,6 +2,8 @@
 title: Milton, Longinus, and the Sublime in the Seventeenth Century
 publication_types:
   - "5"
+authors:
+  - T. M. Vozar
 draft: false
 featured: true
 image:
