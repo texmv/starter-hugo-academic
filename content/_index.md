@@ -42,11 +42,11 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: thomas.matthew.vozar@uni-hamburg.de
       address:
-        street: Phil-Turm, Von-Melle-Park 6, 20146 Hamburg, Germany
+        street: Phil-Turm, Von-Melle-Park 6, 20146 Hamburg
         city:
         region:
         postcode: ''
-        country:
+        country: Germany
         country_code: DE
       office_hours:
         - 'By appointment'
