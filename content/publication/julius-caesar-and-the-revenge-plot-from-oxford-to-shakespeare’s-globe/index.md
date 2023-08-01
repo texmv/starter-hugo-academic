@@ -4,6 +4,7 @@ publication_types:
   - "2"
 authors:
   - T. M. Vozar
+doi: https://doi.org/10.1093/res/hgad042
 publication: "Review of English Studies 74.315 (2023): 456–469"
 draft: false
 featured: false
