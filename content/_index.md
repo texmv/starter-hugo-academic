@@ -40,13 +40,13 @@ sections:
       title: Contact
       text: |-
       # Contact (add or remove contact options as necessary)
-      email: thomas.matthew.vozar@uni-hamburg.de
+      email: thomasvozar@ufl.edu
       address:
-        street: Phil-Turm, Von-Melle-Park 6, 20146 Hamburg
+        street: Hamilton Center, University of Florida, 432 Newell Drive, Gainesville, FL 32611
         city:
         region:
         postcode: ''
-        country: Germany
+        country: USA
         country_code:
       office_hours:
         - 'By appointment'
