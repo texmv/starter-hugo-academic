@@ -12,7 +12,7 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-date: 2023-07-24T21:54:10.701Z
+date: 2024-08-11T23:02:10.388Z
 ---
 No author in the English canon seems more deserving of the epithet *sublime* than John Milton. Yet Milton's sublimity has long been dismissed as an invention of eighteenth-century criticism. The poet himself, the story goes, could hardly have had any notion of the sublime, a concept that only took shape in the decades after his death with the advent of philosophical aesthetics. Such a narrative, however, fails to account for the fact that Milton is one of the first writers in English to refer to Longinus, the author traditionally associated with the Ancient Greek treatise *On the Sublime*. This book argues that Milton did have an idea of the sublime--one that came to him from Longinus but also from a larger classical tradition that offered a pre-aesthetic predecessor to the aesthetic concept of the sublime.\
 \
